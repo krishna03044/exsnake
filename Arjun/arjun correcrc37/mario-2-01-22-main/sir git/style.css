@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  /* background-color:rgb(111, 111, 214); */
+}
+canvas {
+  display: block;
+  margin:auto;
+  margin-top: 50px;
+}
+input{
+  font-size: xx-large;
+}
